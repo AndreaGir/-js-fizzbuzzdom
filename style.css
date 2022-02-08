@@ -12,3 +12,21 @@ h1{
     text-align: center;
     color: white;
 }
+
+.divDimensioni{
+    background-color: aqua;
+    float: left;
+    padding: 5px;
+    text-align: center;
+    margin: 10px;
+}
+
+.bc-gr{
+    background-color: green;
+}
+.bc-rd{
+    background-color: red;
+}
+.bc-yl{
+    background-color: yellow;
+}
